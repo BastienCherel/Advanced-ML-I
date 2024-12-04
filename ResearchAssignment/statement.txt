@@ -1,0 +1,11 @@
+You are required to complete a research assignment on Variable Correlation and Bivariance in the scope of the Advanced ML I course in groups of 3-4 people.
+
+The assignment will consist of 5-10 pages in PDF format explaining the following:
+
+The mathematical basis of correlation and bivariance, and their equations
+The data models affected by correlation and bivariance
+The relation between this topic and the topics covered in the course
+After the explanation, the assignment is to contain a part specific to you (one or more members of the group) on how this subject may impact your future careers (how it may be used in your jobs, how you may need it in your coming internships, etc.)
+The above-mentioned contents can be discussed with mathematical rigor, in a strictly applied scope, or from a qualitative perspective. It is up to you to choose the style. There is no "correct" way to do the assignment, rather grades will be allocated based on clarity, ease of understanding, the smooth flow of ideas, and adherence to the requirements.
+
+Good luck!
