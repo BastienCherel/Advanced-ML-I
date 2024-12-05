@@ -51,42 +51,42 @@ Understanding correlation and bivariance is essential for data scientists, machi
 - Present the formula for correlation and discuss its significance.
 
 
-The sample correlation coefficient, denoted by \( r \), measures the strength and direction of the linear relationship between two variables \( X \) and \( Y \). It is defined as:
+The sample correlation coefficient, denoted by  r , measures the strength and direction of the linear relationship between two variables  X  and  Y . It is defined as:
 
-\[
+$$
 r = \frac{\sum_{i=1}^{n} (x_i - \bar{x})(y_i - \bar{y})}{\sqrt{\sum_{i=1}^{n} (x_i - \bar{x})^2} \sqrt{\sum_{i=1}^{n} (y_i - \bar{y})^2}}
-\]
+$$
 
 where:
-- \( x_i \) and \( y_i \) are the individual data points for \( X \) and \( Y \),
-- \( \bar{x} \) and \( \bar{y} \) are the sample means of \( X \) and \( Y \),
-- \( n \) is the number of data points.
+-  x_i  and  y_i  are the individual data points for  X  and  Y ,
+-  \bar{x}  and  \bar{y}  are the sample means of  X  and  Y ,
+-  n  is the number of data points.
 
-The value of \( r \) ranges from -1 to 1:
-- \( r = 1 \) indicates a perfect positive linear relationship,
-- \( r = -1 \) indicates a perfect negative linear relationship,
-- \( r = 0 \) indicates no linear correlation.
+The value of  r  ranges from -1 to 1:
+-  r = 1  indicates a perfect positive linear relationship,
+-  r = -1  indicates a perfect negative linear relationship,
+-  r = 0  indicates no linear correlation.
 
 
 ### 2.2 Bivariance: Definition and Equation
 - Define bivariance and provide its equation.
 - Explain how bivariance differs from correlation and its role in data analysis.
 
-The sample bivariance, also known as sample covariance, measures the degree to which two variables \( X \) and \( Y \) vary together. It is defined as:
+The sample bivariance, also known as sample covariance, measures the degree to which two variables  X  and  Y  vary together. It is defined as:
 
-\[
+$$
 s_{XY} = \frac{\sum_{i=1}^{n} (x_i - \bar{x})(y_i - \bar{y})}{n - 1}
-\]
+$$
 
 where:
-- \( x_i \) and \( y_i \) are the individual data points for \( X \) and \( Y \),
-- \( \bar{x} \) and \( \bar{y} \) are the sample means of \( X \) and \( Y \),
-- \( n \) is the number of data points.
+-  x_i  and  y_i  are the individual data points for  X  and  Y ,
+-  \bar{x}  and  \bar{y}  are the sample means of  X  and  Y ,
+-  n  is the number of data points.
 
-The sample covariance \( s_{XY} \) can take any real value:
-- If \( s_{XY} > 0 \), it indicates that \( X \) and \( Y \) tend to increase together (positive relationship).
-- If \( s_{XY} < 0 \), it indicates that as one variable increases, the other tends to decrease (negative relationship).
-- If \( s_{XY} = 0 \), there is no linear relationship between the variables.
+The sample covariance  s_{XY}  can take any real value:
+- If  s_{XY} > 0 , it indicates that  X  and  Y  tend to increase together (positive relationship).
+- If  s_{XY} < 0 , it indicates that as one variable increases, the other tends to decrease (negative relationship).
+- If  s_{XY} = 0 , there is no linear relationship between the variables.
 
 ## Data Models Affected by Correlation and Bivariance
 
@@ -119,6 +119,3 @@ Summarize the main points covered in the assignment and the importance of unders
 - [Insert source 1: e.g., academic paper, textbook, or online resource]
 - [Insert source 2: e.g., statistics and machine learning articles, guides, etc.]
 - [Insert source 3: optional]
----
-
-**Note**: Customize this template to fit your research and the specific contributions of each group member.
