@@ -116,6 +116,6 @@ The sample covariance  s_{XY}  can take any real value:
 Summarize the main points covered in the assignment and the importance of understanding correlation and bivariance for advanced machine learning.
 
 ## Sources
-- [Insert source 1: e.g., academic paper, textbook, or online resource]
-- [Insert source 2: e.g., statistics and machine learning articles, guides, etc.]
+- [[Covariance - Wikipedia](https://en.wikipedia.org/wiki/Covariance): e.g., academic paper, textbook, or online resource]
+- [[Correlation - Wikipedia](https://en.wikipedia.org/wiki/Correlation): e.g., statistics and machine learning articles, guides, etc.]
 - [Insert source 3: optional]
