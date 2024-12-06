@@ -67,6 +67,8 @@ The value of  r  ranges from -1 to 1:
 -  r = -1  indicates a perfect negative linear relationship,
 -  r = 0  indicates no linear correlation.
 
+![My Image](media/Pearson_Correlation_Coefficient_and_associated_scatterplots.png)
+
 
 ### 2.2 Bivariance: Definition and Equation
 - Define bivariance and provide its equation.
@@ -87,6 +89,8 @@ The sample covariance  s_{XY}  can take any real value:
 - If  s_{XY} > 0 , it indicates that  X  and  Y  tend to increase together (positive relationship).
 - If  s_{XY} < 0 , it indicates that as one variable increases, the other tends to decrease (negative relationship).
 - If  s_{XY} = 0 , there is no linear relationship between the variables.
+
+
 
 ## Data Models Affected by Correlation and Bivariance
 
