@@ -21,9 +21,9 @@ This assignment explores the concepts of correlation and bivariance, their mathe
 
 ## Authors
 - **Bastien Cherel**: [[GitHub](https://github.com/BastienCherel), Data Science Enthusiast]
-- **Jinyoung Ko**: [Brief bio or role, e.g., Machine Learning Enthusiast]
-- **Sainan Bi**: [Brief bio or role, e.g., Computer Science Major]
-- **Name 4**: [Optional, if applicable]
+- **Jinyoung Ko**: [Machine Learning Enthusiast]
+- **Sainan Bi**: [Computer Science Major]
+- **Shangzhi LOU**: [LLM-agent Enthusiast]
 
 ---
 
@@ -119,7 +119,11 @@ In data science, correlation is the bedrock for exploratory data analysis (EDA).
 
 For ML engineers, the understanding of bivariate relationships is critical when creating models that can predict outcomes effectively. Features that have strong correlations with target variables can be utilized to improve model performance. Furthermore, knowledge of correlation helps in pre-processing steps, such as feature scaling and engineering, which are crucial for training algorithms effectively.
 
-In research fields, whether in social sciences, medical studies, or market research, correlation and bivariate analysis are fundamental for hypothesis testing and data interpretation. For example, medical researchers might use correlation to study the relationship between lifestyle factors and health outcomes, or social scientists may explore the impact of education on income levels.
+As an AI engineer, Variable Correlation and Bivariate Analysis are integral to my work, providing the foundation for deeper statistical and data-driven insights. These methods allow me to measure the strength and direction of relationships between variables, which is essential in projects such as optimizing NoSQL database models for environmental efficiency.
+
+For example, in Shangzhi's research, he use Pearson Correlation Coefficient to quantify linear relationships between features like query complexity, data size, and processing time. This helps pinpoint dependencies that affect performance metrics, such as energy consumption and cost. Additionally, heatmaps and scatter plots are invaluable for visually representing these relationships, allowing for more intuitive analysis and cross-departmental communication.Bivariate analysis, such as applying t-tests or ANOVA, is used to compare variable groups—for instance, studying the impact of schema changes on query execution times across different server configurations. These insights enable the development of predictive models that better account for inter-variable dynamics, ensuring that optimization strategies are both scalable and sustainable.
+
+Looking forward, these analytical skills will be crucial as I aim to tackle more complex challenges in AI engineering, such as designing frameworks for adaptive prompt engineering or optimizing large-scale AI systems. The ability to rigorously assess variable relationships ensures that every solution I create is grounded in robust, actionable insights.
 
 
 ### 5.2 Role in Internships and Job Opportunities
@@ -130,8 +134,13 @@ Interns often work on real data projects that involve cleaning, analyzing, and v
 
 Once in a full-time job, the ability to conduct bivariate analyses becomes even more valuable. Data analysts and data scientists use these techniques to inform decision-making processes. Machine learning engineers, for instance, could be tasked with improving model performance, where understanding feature correlation can directly impact model selection and performance tuning. Correlation analysis can also be used to monitor model drift, ensuring that relationships between features and outcomes remain stable over time.
 
-
 Interns and early-career professionals who demonstrate a strong grasp of correlation and bivariate analysis show their potential to add value to their teams quickly. This skillset can lead to faster learning curves and the ability to contribute to high-impact projects, paving the way for future leadership roles in data science and engineering.
+
+For Shangzhi, mastering Variable Correlation and Bivariate Analysis equips me with critical analytical skills that are directly applicable to real-world AI challenges, making me well-prepared for an internship in this field. These techniques enable me to identify relationships between features, optimize data pipelines, and improve model performance—skills that are essential for tasks such as feature engineering, model evaluation, and system optimization.
+
+For example, during an internship, I could apply these methods to analyze the interplay between user behavior data and recommendation system outputs, ensuring models are both effective and explainable. Additionally, understanding these statistical tools helps me troubleshoot issues like multicollinearity or overfitting, allowing for more reliable deployment of AI models.
+
+By leveraging these skills, I can contribute to developing scalable and efficient AI solutions while collaborating with cross-functional teams to deliver data-driven insights. These capabilities not only enhance my technical contributions but also align with the growing industry demand for AI professionals who can blend statistical rigor with practical problem-solving.
 
 
 ## Conclusion
