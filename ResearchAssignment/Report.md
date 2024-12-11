@@ -32,12 +32,14 @@ In this assignment, we explore two critical concepts in statistics and data anal
 These concepts are foundational in machine learning and data science, as they influence data preprocessing, feature selection, model performance, and interpretability. For example, when building predictive models, understanding correlations can help in identifying redundant features, ensuring the choice of features that contribute meaningful information. Similarly, bivariance helps assess the variability between features, which is crucial for understanding how data features interact and affect model predictions.
 
 The goals of this assignment are as follows:
+
 - To explain the mathematical basis of correlation and bivariance, including their equations.
 - To identify the data models that are affected by these concepts and discuss how they influence model outcomes.
 - To relate correlation and bivariance to advanced machine learning topics covered in the course, such as feature selection, model evaluation, and data preprocessing.
 - To reflect on how understanding these concepts can impact future career opportunities and the application of these insights during internships and job roles.
 
 Understanding correlation and bivariance is essential for data scientists, machine learning engineers, and researchers who work with complex datasets. By grasping these fundamental concepts, one can better design, refine, and interpret models to derive more accurate and meaningful insights from data.
+
 
 ---
 
