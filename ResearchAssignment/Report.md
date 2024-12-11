@@ -21,9 +21,7 @@ This assignment explores the concepts of correlation and bivariance, their mathe
 
 ## Authors
 - **Bastien Cherel**: [[GitHub](https://github.com/BastienCherel), Data Science Enthusiast]
-- **Jinyoung Ko**: [Machine Learning Enthusiast]
-- **Sainan Bi**: [Computer Science Major]
-- **Shangzhi LOU**: [LLM-agent Enthusiast]
+- **Shangzhi LOU**: [[GitHub](https://github.com/ShangzhiLou), LLM-agent Enthusiast]
 
 ---
 
@@ -152,6 +150,6 @@ This assignment highlights the theoretical foundations of correlation and bivari
 As we progress in our careers, mastering these techniques will equip us to tackle complex analytical challenges, optimize models for real-world performance, and make data-driven decisions in diverse professional settings. This foundational knowledge will serve as a stepping stone for deeper exploration of advanced statistical methods and machine learning techniques.
 
 ## Sources
-- [[Covariance - Wikipedia](https://en.wikipedia.org/wiki/Covariance): e.g., academic paper, textbook, or online resource]
-- [[Correlation - Wikipedia](https://en.wikipedia.org/wiki/Correlation): e.g., statistics and machine learning articles, guides, etc.]
-- [Insert source 3: optional]
+- [Covariance - Wikipedia](https://en.wikipedia.org/wiki/Covariance)
+- [Correlation - Wikipedia](https://en.wikipedia.org/wiki/Correlation)
+
